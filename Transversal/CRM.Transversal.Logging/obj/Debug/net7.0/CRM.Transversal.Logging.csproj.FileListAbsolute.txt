@@ -1,0 +1,30 @@
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Logging\bin\Debug\net7.0\CRM.Transversal.Logging.deps.json
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Logging\bin\Debug\net7.0\CRM.Transversal.Logging.dll
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Logging\bin\Debug\net7.0\CRM.Transversal.Logging.pdb
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Logging\obj\Debug\net7.0\CRM.Transversal.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Logging\obj\Debug\net7.0\CRM.Transversal.Logging.AssemblyInfoInputs.cache
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Logging\obj\Debug\net7.0\CRM.Transversal.Logging.AssemblyInfo.cs
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Logging\obj\Debug\net7.0\CRM.Transversal.Logging.csproj.CoreCompileInputs.cache
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Logging\obj\Debug\net7.0\CRM.Transversal.Logging.dll
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Logging\obj\Debug\net7.0\refint\CRM.Transversal.Logging.dll
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Logging\obj\Debug\net7.0\CRM.Transversal.Logging.pdb
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Logging\obj\Debug\net7.0\ref\CRM.Transversal.Logging.dll
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Logging\obj\Debug\net7.0\CRM.Transversal.Logging.csproj.AssemblyReference.cache
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Logging\bin\Debug\net7.0\CRM.Transversal.Common.dll
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Logging\bin\Debug\net7.0\CRM.Transversal.Common.pdb
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Logging\obj\Debug\net7.0\CRM.Transversal.Logging.csproj.CopyComplete
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Logging\bin\Debug\net7.0\CRM.Transversal.Logging.deps.json
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Logging\bin\Debug\net7.0\CRM.Transversal.Logging.dll
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Logging\bin\Debug\net7.0\CRM.Transversal.Logging.pdb
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Logging\bin\Debug\net7.0\CRM.Transversal.Common.dll
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Logging\bin\Debug\net7.0\CRM.Transversal.Common.pdb
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Logging\obj\Debug\net7.0\CRM.Transversal.Logging.csproj.AssemblyReference.cache
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Logging\obj\Debug\net7.0\CRM.Transversal.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Logging\obj\Debug\net7.0\CRM.Transversal.Logging.AssemblyInfoInputs.cache
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Logging\obj\Debug\net7.0\CRM.Transversal.Logging.AssemblyInfo.cs
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Logging\obj\Debug\net7.0\CRM.Transversal.Logging.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Logging\obj\Debug\net7.0\CRM.Transversal.Logging.csproj.CopyComplete
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Logging\obj\Debug\net7.0\CRM.Transversal.Logging.dll
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Logging\obj\Debug\net7.0\refint\CRM.Transversal.Logging.dll
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Logging\obj\Debug\net7.0\CRM.Transversal.Logging.pdb
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Logging\obj\Debug\net7.0\ref\CRM.Transversal.Logging.dll

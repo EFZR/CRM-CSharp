@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CRM.Domain.Core/1.0.0": {
+        "dependencies": {
+          "CRM.Domain.Entity": "1.0.0",
+          "CRM.Domain.Interface": "1.0.0",
+          "CRM.Infrastructure.Interface": "1.0.0"
+        },
+        "runtime": {
+          "CRM.Domain.Core.dll": {}
+        }
+      },
+      "CRM.Domain.Entity/1.0.0": {
+        "runtime": {
+          "CRM.Domain.Entity.dll": {}
+        }
+      },
+      "CRM.Domain.Interface/1.0.0": {
+        "dependencies": {
+          "CRM.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "CRM.Domain.Interface.dll": {}
+        }
+      },
+      "CRM.Infrastructure.Interface/1.0.0": {
+        "dependencies": {
+          "CRM.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "CRM.Infrastructure.Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CRM.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CRM.Domain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CRM.Domain.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CRM.Infrastructure.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

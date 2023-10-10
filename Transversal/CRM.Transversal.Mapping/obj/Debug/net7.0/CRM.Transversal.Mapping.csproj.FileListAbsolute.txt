@@ -1,0 +1,34 @@
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Mapping\bin\Debug\net7.0\CRM.Transversal.Mapping.deps.json
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Mapping\bin\Debug\net7.0\CRM.Transversal.Mapping.dll
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Mapping\bin\Debug\net7.0\CRM.Transversal.Mapping.pdb
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Mapping\obj\Debug\net7.0\CRM.Transversal.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Mapping\obj\Debug\net7.0\CRM.Transversal.Mapping.AssemblyInfoInputs.cache
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Mapping\obj\Debug\net7.0\CRM.Transversal.Mapping.AssemblyInfo.cs
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Mapping\obj\Debug\net7.0\CRM.Transversal.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Mapping\obj\Debug\net7.0\CRM.Transversal.Mapping.dll
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Mapping\obj\Debug\net7.0\refint\CRM.Transversal.Mapping.dll
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Mapping\obj\Debug\net7.0\CRM.Transversal.Mapping.pdb
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Mapping\obj\Debug\net7.0\ref\CRM.Transversal.Mapping.dll
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Mapping\bin\Debug\net7.0\CRM.Application.DTO.dll
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Mapping\bin\Debug\net7.0\CRM.Domain.Entity.dll
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Mapping\bin\Debug\net7.0\CRM.Domain.Entity.pdb
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Mapping\bin\Debug\net7.0\CRM.Application.DTO.pdb
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Mapping\obj\Debug\net7.0\CRM.Transversal.Mapping.csproj.AssemblyReference.cache
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Transversal\CRM.Transversal.Mapping\obj\Debug\net7.0\CRM.Transversal.Mapping.csproj.CopyComplete
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Mapping\bin\Debug\net7.0\CRM.Transversal.Mapping.deps.json
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Mapping\bin\Debug\net7.0\CRM.Transversal.Mapping.dll
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Mapping\bin\Debug\net7.0\CRM.Transversal.Mapping.pdb
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Mapping\bin\Debug\net7.0\CRM.Application.DTO.dll
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Mapping\bin\Debug\net7.0\CRM.Domain.Entity.dll
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Mapping\bin\Debug\net7.0\CRM.Domain.Entity.pdb
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Mapping\bin\Debug\net7.0\CRM.Application.DTO.pdb
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Mapping\obj\Debug\net7.0\CRM.Transversal.Mapping.csproj.AssemblyReference.cache
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Mapping\obj\Debug\net7.0\CRM.Transversal.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Mapping\obj\Debug\net7.0\CRM.Transversal.Mapping.AssemblyInfoInputs.cache
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Mapping\obj\Debug\net7.0\CRM.Transversal.Mapping.AssemblyInfo.cs
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Mapping\obj\Debug\net7.0\CRM.Transversal.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Mapping\obj\Debug\net7.0\CRM.Transversal.Mapping.csproj.CopyComplete
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Mapping\obj\Debug\net7.0\CRM.Transversal.Mapping.dll
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Mapping\obj\Debug\net7.0\refint\CRM.Transversal.Mapping.dll
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Mapping\obj\Debug\net7.0\CRM.Transversal.Mapping.pdb
+C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Mapping\obj\Debug\net7.0\ref\CRM.Transversal.Mapping.dll

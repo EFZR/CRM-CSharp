@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\CRM.Domain.Interface\CRM.Domain.Interface.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\CRM.Infrastructure.Interface\CRM.Infrastructure.Interface.csproj" />
+    <ProjectReference Include="..\CRM.Domain.Entity\CRM.Domain.Entity.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

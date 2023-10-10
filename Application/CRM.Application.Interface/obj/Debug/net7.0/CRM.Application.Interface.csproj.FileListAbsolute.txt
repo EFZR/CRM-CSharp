@@ -1,0 +1,34 @@
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Application\CRM.Application.Interface\bin\Debug\net7.0\CRM.Application.Interface.deps.json
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Application\CRM.Application.Interface\bin\Debug\net7.0\CRM.Application.Interface.dll
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Application\CRM.Application.Interface\bin\Debug\net7.0\CRM.Application.Interface.pdb
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Application\CRM.Application.Interface\obj\Debug\net7.0\CRM.Application.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Application\CRM.Application.Interface\obj\Debug\net7.0\CRM.Application.Interface.AssemblyInfoInputs.cache
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Application\CRM.Application.Interface\obj\Debug\net7.0\CRM.Application.Interface.AssemblyInfo.cs
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Application\CRM.Application.Interface\obj\Debug\net7.0\CRM.Application.Interface.csproj.CoreCompileInputs.cache
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Application\CRM.Application.Interface\obj\Debug\net7.0\CRM.Application.Interface.dll
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Application\CRM.Application.Interface\obj\Debug\net7.0\refint\CRM.Application.Interface.dll
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Application\CRM.Application.Interface\obj\Debug\net7.0\CRM.Application.Interface.pdb
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Application\CRM.Application.Interface\obj\Debug\net7.0\ref\CRM.Application.Interface.dll
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Application\CRM.Application.Interface\bin\Debug\net7.0\CRM.Application.DTO.dll
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Application\CRM.Application.Interface\bin\Debug\net7.0\CRM.Transversal.Common.dll
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Application\CRM.Application.Interface\bin\Debug\net7.0\CRM.Transversal.Common.pdb
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Application\CRM.Application.Interface\bin\Debug\net7.0\CRM.Application.DTO.pdb
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Application\CRM.Application.Interface\obj\Debug\net7.0\CRM.Application.Interface.csproj.AssemblyReference.cache
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Application\CRM.Application.Interface\obj\Debug\net7.0\CRM.Application.Interface.csproj.CopyComplete
+C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.Interface\bin\Debug\net7.0\CRM.Application.Interface.deps.json
+C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.Interface\bin\Debug\net7.0\CRM.Application.Interface.dll
+C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.Interface\bin\Debug\net7.0\CRM.Application.Interface.pdb
+C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.Interface\bin\Debug\net7.0\CRM.Application.DTO.dll
+C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.Interface\bin\Debug\net7.0\CRM.Transversal.Common.dll
+C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.Interface\bin\Debug\net7.0\CRM.Transversal.Common.pdb
+C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.Interface\bin\Debug\net7.0\CRM.Application.DTO.pdb
+C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.Interface\obj\Debug\net7.0\CRM.Application.Interface.csproj.AssemblyReference.cache
+C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.Interface\obj\Debug\net7.0\CRM.Application.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.Interface\obj\Debug\net7.0\CRM.Application.Interface.AssemblyInfoInputs.cache
+C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.Interface\obj\Debug\net7.0\CRM.Application.Interface.AssemblyInfo.cs
+C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.Interface\obj\Debug\net7.0\CRM.Application.Interface.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.Interface\obj\Debug\net7.0\CRM.Application.Interface.csproj.CopyComplete
+C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.Interface\obj\Debug\net7.0\CRM.Application.Interface.dll
+C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.Interface\obj\Debug\net7.0\refint\CRM.Application.Interface.dll
+C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.Interface\obj\Debug\net7.0\CRM.Application.Interface.pdb
+C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.Interface\obj\Debug\net7.0\ref\CRM.Application.Interface.dll

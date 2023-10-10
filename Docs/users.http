@@ -1,0 +1,13 @@
+@rootUrl=http://localhost:5233
+
+POST {{rootUrl}}/api/User/Authenticate
+Content-Type: application/json
+
+{
+  "userID": 0,
+  "firstName": "string",
+  "lastName": "string",
+  "userName": "johndoe",
+  "password": "123456",
+  "token": "string"
+}

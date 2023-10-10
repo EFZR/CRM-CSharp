@@ -1,0 +1,133 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "CRM.Domain.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CRM.Domain.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CRM.Domain.Entity.dll": {}
+        }
+      },
+      "CRM.Domain.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CRM.Domain.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CRM.Domain.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CRM.Domain.Interface.dll": {}
+        }
+      },
+      "CRM.Infrastructure.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CRM.Domain.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CRM.Infrastructure.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CRM.Infrastructure.Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CRM.Domain.Entity/1.0.0": {
+      "type": "project",
+      "path": "../CRM.Domain.Entity/CRM.Domain.Entity.csproj",
+      "msbuildProject": "../CRM.Domain.Entity/CRM.Domain.Entity.csproj"
+    },
+    "CRM.Domain.Interface/1.0.0": {
+      "type": "project",
+      "path": "../CRM.Domain.Interface/CRM.Domain.Interface.csproj",
+      "msbuildProject": "../CRM.Domain.Interface/CRM.Domain.Interface.csproj"
+    },
+    "CRM.Infrastructure.Interface/1.0.0": {
+      "type": "project",
+      "path": "../../Infrastructure/CRM.Infrastructure.Interface/CRM.Infrastructure.Interface.csproj",
+      "msbuildProject": "../../Infrastructure/CRM.Infrastructure.Interface/CRM.Infrastructure.Interface.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "CRM.Domain.Entity >= 1.0.0",
+      "CRM.Domain.Interface >= 1.0.0",
+      "CRM.Infrastructure.Interface >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\user\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Domain\\CRM.Domain.Core\\CRM.Domain.Core.csproj",
+      "projectName": "CRM.Domain.Core",
+      "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Domain\\CRM.Domain.Core\\CRM.Domain.Core.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Domain\\CRM.Domain.Core\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Domain\\CRM.Domain.Entity\\CRM.Domain.Entity.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Domain\\CRM.Domain.Entity\\CRM.Domain.Entity.csproj"
+            },
+            "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Domain\\CRM.Domain.Interface\\CRM.Domain.Interface.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Domain\\CRM.Domain.Interface\\CRM.Domain.Interface.csproj"
+            },
+            "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Infrastructure\\CRM.Infrastructure.Interface\\CRM.Infrastructure.Interface.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Infrastructure\\CRM.Infrastructure.Interface\\CRM.Infrastructure.Interface.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

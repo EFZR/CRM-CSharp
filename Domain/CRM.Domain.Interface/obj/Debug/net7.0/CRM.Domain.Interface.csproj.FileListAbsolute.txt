@@ -1,0 +1,30 @@
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Domain\CRM.Domain.Interface\bin\Debug\net7.0\CRM.Domain.Interface.deps.json
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Domain\CRM.Domain.Interface\bin\Debug\net7.0\CRM.Domain.Interface.dll
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Domain\CRM.Domain.Interface\bin\Debug\net7.0\CRM.Domain.Interface.pdb
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Domain\CRM.Domain.Interface\obj\Debug\net7.0\CRM.Domain.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Domain\CRM.Domain.Interface\obj\Debug\net7.0\CRM.Domain.Interface.AssemblyInfoInputs.cache
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Domain\CRM.Domain.Interface\obj\Debug\net7.0\CRM.Domain.Interface.AssemblyInfo.cs
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Domain\CRM.Domain.Interface\obj\Debug\net7.0\CRM.Domain.Interface.csproj.CoreCompileInputs.cache
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Domain\CRM.Domain.Interface\obj\Debug\net7.0\CRM.Domain.Interface.dll
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Domain\CRM.Domain.Interface\obj\Debug\net7.0\refint\CRM.Domain.Interface.dll
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Domain\CRM.Domain.Interface\obj\Debug\net7.0\CRM.Domain.Interface.pdb
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Domain\CRM.Domain.Interface\obj\Debug\net7.0\ref\CRM.Domain.Interface.dll
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Domain\CRM.Domain.Interface\bin\Debug\net7.0\CRM.Domain.Entity.dll
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Domain\CRM.Domain.Interface\bin\Debug\net7.0\CRM.Domain.Entity.pdb
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Domain\CRM.Domain.Interface\obj\Debug\net7.0\CRM.Domain.Interface.csproj.AssemblyReference.cache
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Domain\CRM.Domain.Interface\obj\Debug\net7.0\CRM.Domain.Interface.csproj.CopyComplete
+C:\Users\user\Documents\curso de C#\Projects\CRM\Domain\CRM.Domain.Interface\bin\Debug\net7.0\CRM.Domain.Interface.deps.json
+C:\Users\user\Documents\curso de C#\Projects\CRM\Domain\CRM.Domain.Interface\bin\Debug\net7.0\CRM.Domain.Interface.dll
+C:\Users\user\Documents\curso de C#\Projects\CRM\Domain\CRM.Domain.Interface\bin\Debug\net7.0\CRM.Domain.Interface.pdb
+C:\Users\user\Documents\curso de C#\Projects\CRM\Domain\CRM.Domain.Interface\bin\Debug\net7.0\CRM.Domain.Entity.dll
+C:\Users\user\Documents\curso de C#\Projects\CRM\Domain\CRM.Domain.Interface\bin\Debug\net7.0\CRM.Domain.Entity.pdb
+C:\Users\user\Documents\curso de C#\Projects\CRM\Domain\CRM.Domain.Interface\obj\Debug\net7.0\CRM.Domain.Interface.csproj.AssemblyReference.cache
+C:\Users\user\Documents\curso de C#\Projects\CRM\Domain\CRM.Domain.Interface\obj\Debug\net7.0\CRM.Domain.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\curso de C#\Projects\CRM\Domain\CRM.Domain.Interface\obj\Debug\net7.0\CRM.Domain.Interface.AssemblyInfoInputs.cache
+C:\Users\user\Documents\curso de C#\Projects\CRM\Domain\CRM.Domain.Interface\obj\Debug\net7.0\CRM.Domain.Interface.AssemblyInfo.cs
+C:\Users\user\Documents\curso de C#\Projects\CRM\Domain\CRM.Domain.Interface\obj\Debug\net7.0\CRM.Domain.Interface.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\curso de C#\Projects\CRM\Domain\CRM.Domain.Interface\obj\Debug\net7.0\CRM.Domain.Interface.csproj.CopyComplete
+C:\Users\user\Documents\curso de C#\Projects\CRM\Domain\CRM.Domain.Interface\obj\Debug\net7.0\CRM.Domain.Interface.dll
+C:\Users\user\Documents\curso de C#\Projects\CRM\Domain\CRM.Domain.Interface\obj\Debug\net7.0\refint\CRM.Domain.Interface.dll
+C:\Users\user\Documents\curso de C#\Projects\CRM\Domain\CRM.Domain.Interface\obj\Debug\net7.0\CRM.Domain.Interface.pdb
+C:\Users\user\Documents\curso de C#\Projects\CRM\Domain\CRM.Domain.Interface\obj\Debug\net7.0\ref\CRM.Domain.Interface.dll

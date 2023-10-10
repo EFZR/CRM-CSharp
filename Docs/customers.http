@@ -1,0 +1,56 @@
+@rootUrl=http://localhost:5233
+@token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE2OTY5MTA5MzgsImV4cCI6MTY5NjkxNDUzOCwiaWF0IjoxNjk2OTEwOTM4LCJpc3MiOiJFeGFtcGxlSXNzdWVyIiwiYXVkIjoiRXhhbXBsZUF1ZGllbmNlIn0.YL3SwguUXfY0fGaleyM0Q3ktmAyYUcFsaec0vIhKZvc
+
+POST {{rootUrl}}/api/Customer/Insert
+Authorization: Bearer {{token}}
+Content-Type: application/json
+
+{
+    "customerId": "EMEF",
+    "companyName": "Lafise",
+    "contactName": "Emerson Fernando",
+    "contactTitle": "Full Stack Developer",
+    "address": "Alemany mounts south 1",
+    "city": "Tegucigalpa",
+    "region": "",
+    "postalCode": "11101",
+    "country": "HN",
+    "phone": "9940-1110",
+    "fax": ""
+}
+
+###
+GET {{rootUrl}}/api/Customer/GetAll
+Authorization: Bearer {{token}}
+
+###
+
+GET {{rootUrl}}/api/Customer/Get/customerId?customerId=ALFKI
+Authorization: Bearer {{token}}
+
+###
+
+PUT {{rootUrl}}/api/Customer/Update
+Authorization: Bearer {{token}}
+Content-Type: application/json
+
+{
+    "customerId": "EMEZA",
+    "companyName": "Lafise",
+    "contactName": "Fernando Rivas",
+    "contactTitle": "Full Stack Developer",
+    "address": "Alemany mounts south 1",
+    "city": "Tegucigalpa",
+    "region": "",
+    "postalCode": "11101",
+    "country": "HN",
+    "phone": "9940-1110",
+    "fax": ""
+}
+
+###
+
+DELETE {{rootUrl}}/api/Customer/Delete/customerId?customerId=EMEZA
+Authorization: Bearer {{token}}
+
+###

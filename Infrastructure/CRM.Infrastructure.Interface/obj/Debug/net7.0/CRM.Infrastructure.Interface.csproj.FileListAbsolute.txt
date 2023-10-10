@@ -1,0 +1,30 @@
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Infrastructure\CRM.Infrastructure.Interface\bin\Debug\net7.0\CRM.Infrastructure.Interface.deps.json
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Infrastructure\CRM.Infrastructure.Interface\bin\Debug\net7.0\CRM.Infrastructure.Interface.dll
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Infrastructure\CRM.Infrastructure.Interface\bin\Debug\net7.0\CRM.Infrastructure.Interface.pdb
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Infrastructure\CRM.Infrastructure.Interface\obj\Debug\net7.0\CRM.Infrastructure.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Infrastructure\CRM.Infrastructure.Interface\obj\Debug\net7.0\CRM.Infrastructure.Interface.AssemblyInfoInputs.cache
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Infrastructure\CRM.Infrastructure.Interface\obj\Debug\net7.0\CRM.Infrastructure.Interface.AssemblyInfo.cs
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Infrastructure\CRM.Infrastructure.Interface\obj\Debug\net7.0\CRM.Infrastructure.Interface.csproj.CoreCompileInputs.cache
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Infrastructure\CRM.Infrastructure.Interface\obj\Debug\net7.0\CRM.Infrastructure.Interface.dll
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Infrastructure\CRM.Infrastructure.Interface\obj\Debug\net7.0\refint\CRM.Infrastructure.Interface.dll
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Infrastructure\CRM.Infrastructure.Interface\obj\Debug\net7.0\CRM.Infrastructure.Interface.pdb
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Infrastructure\CRM.Infrastructure.Interface\obj\Debug\net7.0\ref\CRM.Infrastructure.Interface.dll
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Infrastructure\CRM.Infrastructure.Interface\bin\Debug\net7.0\CRM.Domain.Entity.dll
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Infrastructure\CRM.Infrastructure.Interface\bin\Debug\net7.0\CRM.Domain.Entity.pdb
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Infrastructure\CRM.Infrastructure.Interface\obj\Debug\net7.0\CRM.Infrastructure.Interface.csproj.AssemblyReference.cache
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Infrastructure\CRM.Infrastructure.Interface\obj\Debug\net7.0\CRM.Infrastructure.Interface.csproj.CopyComplete
+C:\Users\user\Documents\curso de C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Interface\bin\Debug\net7.0\CRM.Infrastructure.Interface.deps.json
+C:\Users\user\Documents\curso de C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Interface\bin\Debug\net7.0\CRM.Infrastructure.Interface.dll
+C:\Users\user\Documents\curso de C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Interface\bin\Debug\net7.0\CRM.Infrastructure.Interface.pdb
+C:\Users\user\Documents\curso de C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Interface\bin\Debug\net7.0\CRM.Domain.Entity.dll
+C:\Users\user\Documents\curso de C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Interface\bin\Debug\net7.0\CRM.Domain.Entity.pdb
+C:\Users\user\Documents\curso de C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Interface\obj\Debug\net7.0\CRM.Infrastructure.Interface.csproj.AssemblyReference.cache
+C:\Users\user\Documents\curso de C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Interface\obj\Debug\net7.0\CRM.Infrastructure.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\curso de C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Interface\obj\Debug\net7.0\CRM.Infrastructure.Interface.AssemblyInfoInputs.cache
+C:\Users\user\Documents\curso de C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Interface\obj\Debug\net7.0\CRM.Infrastructure.Interface.AssemblyInfo.cs
+C:\Users\user\Documents\curso de C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Interface\obj\Debug\net7.0\CRM.Infrastructure.Interface.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\curso de C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Interface\obj\Debug\net7.0\CRM.Infrastructure.Interface.csproj.CopyComplete
+C:\Users\user\Documents\curso de C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Interface\obj\Debug\net7.0\CRM.Infrastructure.Interface.dll
+C:\Users\user\Documents\curso de C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Interface\obj\Debug\net7.0\refint\CRM.Infrastructure.Interface.dll
+C:\Users\user\Documents\curso de C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Interface\obj\Debug\net7.0\CRM.Infrastructure.Interface.pdb
+C:\Users\user\Documents\curso de C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Interface\obj\Debug\net7.0\ref\CRM.Infrastructure.Interface.dll

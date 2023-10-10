@@ -1,0 +1,22 @@
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Application\CRM.Application.DTO\bin\Debug\net7.0\CRM.Application.DTO.deps.json
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Application\CRM.Application.DTO\bin\Debug\net7.0\CRM.Application.DTO.dll
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Application\CRM.Application.DTO\bin\Debug\net7.0\CRM.Application.DTO.pdb
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Application\CRM.Application.DTO\obj\Debug\net7.0\CRM.Application.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Application\CRM.Application.DTO\obj\Debug\net7.0\CRM.Application.DTO.AssemblyInfoInputs.cache
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Application\CRM.Application.DTO\obj\Debug\net7.0\CRM.Application.DTO.AssemblyInfo.cs
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Application\CRM.Application.DTO\obj\Debug\net7.0\CRM.Application.DTO.csproj.CoreCompileInputs.cache
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Application\CRM.Application.DTO\obj\Debug\net7.0\CRM.Application.DTO.dll
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Application\CRM.Application.DTO\obj\Debug\net7.0\refint\CRM.Application.DTO.dll
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Application\CRM.Application.DTO\obj\Debug\net7.0\CRM.Application.DTO.pdb
+C:\Users\ezapata\Desktop\Personal\dotnet\CRM\Application\CRM.Application.DTO\obj\Debug\net7.0\ref\CRM.Application.DTO.dll
+C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.DTO\bin\Debug\net7.0\CRM.Application.DTO.deps.json
+C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.DTO\bin\Debug\net7.0\CRM.Application.DTO.dll
+C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.DTO\bin\Debug\net7.0\CRM.Application.DTO.pdb
+C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.DTO\obj\Debug\net7.0\CRM.Application.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.DTO\obj\Debug\net7.0\CRM.Application.DTO.AssemblyInfoInputs.cache
+C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.DTO\obj\Debug\net7.0\CRM.Application.DTO.AssemblyInfo.cs
+C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.DTO\obj\Debug\net7.0\CRM.Application.DTO.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.DTO\obj\Debug\net7.0\CRM.Application.DTO.dll
+C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.DTO\obj\Debug\net7.0\refint\CRM.Application.DTO.dll
+C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.DTO\obj\Debug\net7.0\CRM.Application.DTO.pdb
+C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.DTO\obj\Debug\net7.0\ref\CRM.Application.DTO.dll
