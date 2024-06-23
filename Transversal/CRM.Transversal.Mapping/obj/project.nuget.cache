@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6tZ5kXJGVm+LAZiQ1vUni+fwRwAmrW0n1SlGdXk3rbsl6yRwLqXjGcTVhqax8d11VCsJqi28lzpBF6r+D92+8A==",
+  "dgSpecHash": "OgBt3Wlz0Xc5lDCYauOSEhSYbAUbUGJK1POFkQsY0n0RSmsGxDOMftlf32B3zlBQAIj5O71555LOPfXM7eIjzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Mapping\\CRM.Transversal.Mapping.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Mapping\\CRM.Transversal.Mapping.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"

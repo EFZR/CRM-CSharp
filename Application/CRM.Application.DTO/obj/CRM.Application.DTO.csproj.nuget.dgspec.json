@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Application\\CRM.Application.DTO\\CRM.Application.DTO.csproj": {}
+    "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Application\\CRM.Application.DTO\\CRM.Application.DTO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Application\\CRM.Application.DTO\\CRM.Application.DTO.csproj": {
+    "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Application\\CRM.Application.DTO\\CRM.Application.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Application\\CRM.Application.DTO\\CRM.Application.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Application\\CRM.Application.DTO\\CRM.Application.DTO.csproj",
         "projectName": "CRM.Application.DTO",
-        "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Application\\CRM.Application.DTO\\CRM.Application.DTO.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Application\\CRM.Application.DTO\\CRM.Application.DTO.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Application\\CRM.Application.DTO\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Application\\CRM.Application.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

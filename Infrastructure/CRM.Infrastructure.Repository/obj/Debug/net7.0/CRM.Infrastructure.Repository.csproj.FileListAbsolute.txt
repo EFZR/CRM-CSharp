@@ -40,3 +40,24 @@ C:\Users\user\Documents\curso de C#\Projects\CRM\Infrastructure\CRM.Infrastructu
 C:\Users\user\Documents\curso de C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Repository\obj\Debug\net7.0\refint\CRM.Infrastructure.Repository.dll
 C:\Users\user\Documents\curso de C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Repository\obj\Debug\net7.0\CRM.Infrastructure.Repository.pdb
 C:\Users\user\Documents\curso de C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Repository\obj\Debug\net7.0\ref\CRM.Infrastructure.Repository.dll
+C:\Users\user\Documents\C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Repository\bin\Debug\net7.0\CRM.Infrastructure.Repository.deps.json
+C:\Users\user\Documents\C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Repository\bin\Debug\net7.0\CRM.Infrastructure.Repository.dll
+C:\Users\user\Documents\C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Repository\bin\Debug\net7.0\CRM.Infrastructure.Repository.pdb
+C:\Users\user\Documents\C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Repository\bin\Debug\net7.0\CRM.Domain.Entity.dll
+C:\Users\user\Documents\C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Repository\bin\Debug\net7.0\CRM.Infrastructure.Data.dll
+C:\Users\user\Documents\C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Repository\bin\Debug\net7.0\CRM.Infrastructure.Interface.dll
+C:\Users\user\Documents\C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Repository\bin\Debug\net7.0\CRM.Transversal.Common.dll
+C:\Users\user\Documents\C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Repository\bin\Debug\net7.0\CRM.Infrastructure.Interface.pdb
+C:\Users\user\Documents\C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Repository\bin\Debug\net7.0\CRM.Infrastructure.Data.pdb
+C:\Users\user\Documents\C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Repository\bin\Debug\net7.0\CRM.Transversal.Common.pdb
+C:\Users\user\Documents\C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Repository\bin\Debug\net7.0\CRM.Domain.Entity.pdb
+C:\Users\user\Documents\C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Repository\obj\Debug\net7.0\CRM.Infrastructure.Repository.csproj.AssemblyReference.cache
+C:\Users\user\Documents\C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Repository\obj\Debug\net7.0\CRM.Infrastructure.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Repository\obj\Debug\net7.0\CRM.Infrastructure.Repository.AssemblyInfoInputs.cache
+C:\Users\user\Documents\C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Repository\obj\Debug\net7.0\CRM.Infrastructure.Repository.AssemblyInfo.cs
+C:\Users\user\Documents\C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Repository\obj\Debug\net7.0\CRM.Infrastructure.Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Repository\obj\Debug\net7.0\CRM.Infrastructure.Repository.csproj.CopyComplete
+C:\Users\user\Documents\C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Repository\obj\Debug\net7.0\CRM.Infrastructure.Repository.dll
+C:\Users\user\Documents\C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Repository\obj\Debug\net7.0\refint\CRM.Infrastructure.Repository.dll
+C:\Users\user\Documents\C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Repository\obj\Debug\net7.0\CRM.Infrastructure.Repository.pdb
+C:\Users\user\Documents\C#\Projects\CRM\Infrastructure\CRM.Infrastructure.Repository\obj\Debug\net7.0\ref\CRM.Infrastructure.Repository.dll

@@ -158,11 +158,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Mapping\\CRM.Transversal.Mapping.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Mapping\\CRM.Transversal.Mapping.csproj",
       "projectName": "CRM.Transversal.Mapping",
-      "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Mapping\\CRM.Transversal.Mapping.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Mapping\\CRM.Transversal.Mapping.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Mapping\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Mapping\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -177,11 +177,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Application\\CRM.Application.DTO\\CRM.Application.DTO.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Application\\CRM.Application.DTO\\CRM.Application.DTO.csproj"
+            "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Application\\CRM.Application.DTO\\CRM.Application.DTO.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Application\\CRM.Application.DTO\\CRM.Application.DTO.csproj"
             },
-            "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Domain\\CRM.Domain.Entity\\CRM.Domain.Entity.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Domain\\CRM.Domain.Entity\\CRM.Domain.Entity.csproj"
+            "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Domain\\CRM.Domain.Entity\\CRM.Domain.Entity.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Domain\\CRM.Domain.Entity\\CRM.Domain.Entity.csproj"
             }
           }
         }

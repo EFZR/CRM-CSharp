@@ -70,11 +70,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Domain\\CRM.Domain.Core\\CRM.Domain.Core.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Domain\\CRM.Domain.Core\\CRM.Domain.Core.csproj",
       "projectName": "CRM.Domain.Core",
-      "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Domain\\CRM.Domain.Core\\CRM.Domain.Core.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Domain\\CRM.Domain.Core\\CRM.Domain.Core.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Domain\\CRM.Domain.Core\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Domain\\CRM.Domain.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -89,14 +89,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Domain\\CRM.Domain.Entity\\CRM.Domain.Entity.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Domain\\CRM.Domain.Entity\\CRM.Domain.Entity.csproj"
+            "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Domain\\CRM.Domain.Entity\\CRM.Domain.Entity.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Domain\\CRM.Domain.Entity\\CRM.Domain.Entity.csproj"
             },
-            "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Domain\\CRM.Domain.Interface\\CRM.Domain.Interface.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Domain\\CRM.Domain.Interface\\CRM.Domain.Interface.csproj"
+            "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Domain\\CRM.Domain.Interface\\CRM.Domain.Interface.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Domain\\CRM.Domain.Interface\\CRM.Domain.Interface.csproj"
             },
-            "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Infrastructure\\CRM.Infrastructure.Interface\\CRM.Infrastructure.Interface.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Infrastructure\\CRM.Infrastructure.Interface\\CRM.Infrastructure.Interface.csproj"
+            "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Infrastructure\\CRM.Infrastructure.Interface\\CRM.Infrastructure.Interface.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Infrastructure\\CRM.Infrastructure.Interface\\CRM.Infrastructure.Interface.csproj"
             }
           }
         }

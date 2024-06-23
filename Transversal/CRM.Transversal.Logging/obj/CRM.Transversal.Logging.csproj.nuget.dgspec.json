@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Logging\\CRM.Transversal.Logging.csproj": {}
+    "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Logging\\CRM.Transversal.Logging.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Common\\CRM.Transversal.Common.csproj": {
+    "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Common\\CRM.Transversal.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Common\\CRM.Transversal.Common.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Common\\CRM.Transversal.Common.csproj",
         "projectName": "CRM.Transversal.Common",
-        "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Common\\CRM.Transversal.Common.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Common\\CRM.Transversal.Common.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Common\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Logging\\CRM.Transversal.Logging.csproj": {
+    "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Logging\\CRM.Transversal.Logging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Logging\\CRM.Transversal.Logging.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Logging\\CRM.Transversal.Logging.csproj",
         "projectName": "CRM.Transversal.Logging",
-        "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Logging\\CRM.Transversal.Logging.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Logging\\CRM.Transversal.Logging.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Logging\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Logging\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -85,8 +85,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Common\\CRM.Transversal.Common.csproj": {
-                "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Common\\CRM.Transversal.Common.csproj"
+              "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Common\\CRM.Transversal.Common.csproj": {
+                "projectPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Common\\CRM.Transversal.Common.csproj"
               }
             }
           }

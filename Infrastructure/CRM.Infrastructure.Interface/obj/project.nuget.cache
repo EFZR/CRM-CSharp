@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HEO63v4bga9EF9RYsrNNwJWOZqQrXx0Xq/bSBHeE2ZpPqqOY4cGdQvSqg8av0GZLhbPbrRg42rJSj8BojVnRuw==",
+  "dgSpecHash": "5CLFIuymEhjba0XOVHx6/vcBlgppXQmal+sf5eIV+PGWrbjgbdoY70h51LDb9WC8VrWkkH1vRxYq3DDsibeQBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Infrastructure\\CRM.Infrastructure.Interface\\CRM.Infrastructure.Interface.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Infrastructure\\CRM.Infrastructure.Interface\\CRM.Infrastructure.Interface.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1981,11 +1981,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Service\\CRM.Service.WebApi\\CRM.Service.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Service\\CRM.Service.WebApi\\CRM.Service.WebApi.csproj",
       "projectName": "CRM.Service.WebApi",
-      "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Service\\CRM.Service.WebApi\\CRM.Service.WebApi.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Service\\CRM.Service.WebApi\\CRM.Service.WebApi.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Service\\CRM.Service.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Service\\CRM.Service.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2000,41 +2000,41 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Application\\CRM.Application.DTO\\CRM.Application.DTO.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Application\\CRM.Application.DTO\\CRM.Application.DTO.csproj"
+            "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Application\\CRM.Application.DTO\\CRM.Application.DTO.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Application\\CRM.Application.DTO\\CRM.Application.DTO.csproj"
             },
-            "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Application\\CRM.Application.Interface\\CRM.Application.Interface.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Application\\CRM.Application.Interface\\CRM.Application.Interface.csproj"
+            "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Application\\CRM.Application.Interface\\CRM.Application.Interface.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Application\\CRM.Application.Interface\\CRM.Application.Interface.csproj"
             },
-            "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Application\\CRM.Application.Main\\CRM.Application.Main.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Application\\CRM.Application.Main\\CRM.Application.Main.csproj"
+            "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Application\\CRM.Application.Main\\CRM.Application.Main.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Application\\CRM.Application.Main\\CRM.Application.Main.csproj"
             },
-            "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Domain\\CRM.Domain.Core\\CRM.Domain.Core.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Domain\\CRM.Domain.Core\\CRM.Domain.Core.csproj"
+            "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Domain\\CRM.Domain.Core\\CRM.Domain.Core.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Domain\\CRM.Domain.Core\\CRM.Domain.Core.csproj"
             },
-            "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Domain\\CRM.Domain.Entity\\CRM.Domain.Entity.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Domain\\CRM.Domain.Entity\\CRM.Domain.Entity.csproj"
+            "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Domain\\CRM.Domain.Entity\\CRM.Domain.Entity.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Domain\\CRM.Domain.Entity\\CRM.Domain.Entity.csproj"
             },
-            "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Domain\\CRM.Domain.Interface\\CRM.Domain.Interface.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Domain\\CRM.Domain.Interface\\CRM.Domain.Interface.csproj"
+            "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Domain\\CRM.Domain.Interface\\CRM.Domain.Interface.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Domain\\CRM.Domain.Interface\\CRM.Domain.Interface.csproj"
             },
-            "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Infrastructure\\CRM.Infrastructure.Data\\CRM.Infrastructure.Data.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Infrastructure\\CRM.Infrastructure.Data\\CRM.Infrastructure.Data.csproj"
+            "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Infrastructure\\CRM.Infrastructure.Data\\CRM.Infrastructure.Data.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Infrastructure\\CRM.Infrastructure.Data\\CRM.Infrastructure.Data.csproj"
             },
-            "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Infrastructure\\CRM.Infrastructure.Interface\\CRM.Infrastructure.Interface.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Infrastructure\\CRM.Infrastructure.Interface\\CRM.Infrastructure.Interface.csproj"
+            "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Infrastructure\\CRM.Infrastructure.Interface\\CRM.Infrastructure.Interface.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Infrastructure\\CRM.Infrastructure.Interface\\CRM.Infrastructure.Interface.csproj"
             },
-            "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Infrastructure\\CRM.Infrastructure.Repository\\CRM.Infrastructure.Repository.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Infrastructure\\CRM.Infrastructure.Repository\\CRM.Infrastructure.Repository.csproj"
+            "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Infrastructure\\CRM.Infrastructure.Repository\\CRM.Infrastructure.Repository.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Infrastructure\\CRM.Infrastructure.Repository\\CRM.Infrastructure.Repository.csproj"
             },
-            "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Common\\CRM.Transversal.Common.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Common\\CRM.Transversal.Common.csproj"
+            "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Common\\CRM.Transversal.Common.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Common\\CRM.Transversal.Common.csproj"
             },
-            "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Logging\\CRM.Transversal.Logging.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Logging\\CRM.Transversal.Logging.csproj"
+            "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Logging\\CRM.Transversal.Logging.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Logging\\CRM.Transversal.Logging.csproj"
             },
-            "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Mapping\\CRM.Transversal.Mapping.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Mapping\\CRM.Transversal.Mapping.csproj"
+            "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Mapping\\CRM.Transversal.Mapping.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Mapping\\CRM.Transversal.Mapping.csproj"
             }
           }
         }

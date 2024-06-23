@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6Uiq5KfzwkIMqyEacBrpUAazl3Q0YyQovBztm1n4SuHwBKqGTPb3+uZMWsfaH6qrOvT1gr3XCRYiBN0p0g9Vew==",
+  "dgSpecHash": "R0HO6XmNypxiyFLgN0T4oDCTeJDAWI0/B6z1GzwOLgvfAd0KO5Y9dPXMRtpXw+td/TMy0bYhbXrfzbSBiIFxMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Application\\CRM.Application.Main\\CRM.Application.Main.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Application\\CRM.Application.Main\\CRM.Application.Main.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

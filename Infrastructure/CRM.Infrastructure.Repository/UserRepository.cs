@@ -12,6 +12,7 @@ public class UserRepository : IUserRepository
     {
         _factoryConnection = factoryConnection;
     }
+
     #region Queries
     private readonly string SELECT_USER = "SELECT * FROM user WHERE UserName = @UserName";
     #endregion

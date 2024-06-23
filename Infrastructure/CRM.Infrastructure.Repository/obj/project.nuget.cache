@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VoACFgfyDlQffjFH/i0AbDKBIkE9x3Kh6PZp5mTVRVw5ElA8AfaoPMOHVqNB6oKPZJ3i0oWnQoQtaWfivRsBkQ==",
+  "dgSpecHash": "CjmRysWtby/c1W2aFeB8L0QiOghCYGjKueMlmSI6R5R6zsAcn+FYrMDGA/+/x08B9xQLJpel1RnuipDOrNvsaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Infrastructure\\CRM.Infrastructure.Repository\\CRM.Infrastructure.Repository.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Infrastructure\\CRM.Infrastructure.Repository\\CRM.Infrastructure.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\dapper\\2.1.4\\dapper.2.1.4.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.data.sqlite\\7.0.11\\microsoft.data.sqlite.7.0.11.nupkg.sha512",

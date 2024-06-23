@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kvGT2BtK8YuUydwTuS548pBKi6Yn72vJpC9ZrRjU7y5rDqsPPyvcVwXgpuldx7oERtJ93yN8hCKNiksSaLqV7A==",
+  "dgSpecHash": "Hxv7wFSjD5eMeKiAa8sYD/3tFB+GlNPoYUaxYqFQTS0+IHXalTMSy6uQKvBrKHAivAKaYtcffe11nB3FTKC6wg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Application\\CRM.Application.Interface\\CRM.Application.Interface.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Application\\CRM.Application.Interface\\CRM.Application.Interface.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.data.sqlite\\7.0.11\\microsoft.data.sqlite.7.0.11.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.11\\microsoft.data.sqlite.core.7.0.11.nupkg.sha512",

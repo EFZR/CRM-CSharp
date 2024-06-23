@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mlGLmEYvRQvnaqFXl8ArL/kJN3snetzgWO7sgKSCM4i+q9nUOw8fy1++suu+XHy+7CuzgdKOeEzC0dsWBaePnw==",
+  "dgSpecHash": "66yPV1E77AZ7VyB8PEqqOkNb8EPypL+24bLqvlH3mpF+XSZhnhAZET2RCdW/deb874r0jCHj+ulMka20rYm36w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Common\\CRM.Transversal.Common.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Common\\CRM.Transversal.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.data.sqlite\\7.0.11\\microsoft.data.sqlite.7.0.11.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.11\\microsoft.data.sqlite.core.7.0.11.nupkg.sha512",

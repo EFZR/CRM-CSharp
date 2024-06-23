@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ET7QC5IcIcpH/9r9SVlMymORcO1TOMxQuuILD5xdtmyPA057t+CpS4bj4/Y0rG4Vwe1M2ZFapBt/Zd1t1PB2jA==",
+  "dgSpecHash": "TV5uX6AXuSiqfqCi7v5c3DAgPkwLGZbW7eEDketdAho49mH4I7Uzh/DKa40rmY3kDe6njHBCNF6iixHVMG3w1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Service\\CRM.Service.WebApi\\CRM.Service.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Service\\CRM.Service.WebApi\\CRM.Service.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

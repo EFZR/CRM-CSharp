@@ -537,11 +537,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Application\\CRM.Application.Main\\CRM.Application.Main.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Application\\CRM.Application.Main\\CRM.Application.Main.csproj",
       "projectName": "CRM.Application.Main",
-      "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Application\\CRM.Application.Main\\CRM.Application.Main.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Application\\CRM.Application.Main\\CRM.Application.Main.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Application\\CRM.Application.Main\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Application\\CRM.Application.Main\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -556,20 +556,20 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Application\\CRM.Application.DTO\\CRM.Application.DTO.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Application\\CRM.Application.DTO\\CRM.Application.DTO.csproj"
+            "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Application\\CRM.Application.DTO\\CRM.Application.DTO.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Application\\CRM.Application.DTO\\CRM.Application.DTO.csproj"
             },
-            "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Application\\CRM.Application.Interface\\CRM.Application.Interface.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Application\\CRM.Application.Interface\\CRM.Application.Interface.csproj"
+            "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Application\\CRM.Application.Interface\\CRM.Application.Interface.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Application\\CRM.Application.Interface\\CRM.Application.Interface.csproj"
             },
-            "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Domain\\CRM.Domain.Entity\\CRM.Domain.Entity.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Domain\\CRM.Domain.Entity\\CRM.Domain.Entity.csproj"
+            "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Domain\\CRM.Domain.Entity\\CRM.Domain.Entity.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Domain\\CRM.Domain.Entity\\CRM.Domain.Entity.csproj"
             },
-            "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Domain\\CRM.Domain.Interface\\CRM.Domain.Interface.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Domain\\CRM.Domain.Interface\\CRM.Domain.Interface.csproj"
+            "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Domain\\CRM.Domain.Interface\\CRM.Domain.Interface.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Domain\\CRM.Domain.Interface\\CRM.Domain.Interface.csproj"
             },
-            "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Common\\CRM.Transversal.Common.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Common\\CRM.Transversal.Common.csproj"
+            "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Common\\CRM.Transversal.Common.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Transversal\\CRM.Transversal.Common\\CRM.Transversal.Common.csproj"
             }
           }
         }

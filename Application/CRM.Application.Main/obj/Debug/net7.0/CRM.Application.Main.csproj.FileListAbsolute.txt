@@ -44,3 +44,26 @@ C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.Mai
 C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.Main\obj\Debug\net7.0\refint\CRM.Application.Main.dll
 C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.Main\obj\Debug\net7.0\CRM.Application.Main.pdb
 C:\Users\user\Documents\curso de C#\Projects\CRM\Application\CRM.Application.Main\obj\Debug\net7.0\ref\CRM.Application.Main.dll
+C:\Users\user\Documents\C#\Projects\CRM\Application\CRM.Application.Main\bin\Debug\net7.0\CRM.Application.Main.deps.json
+C:\Users\user\Documents\C#\Projects\CRM\Application\CRM.Application.Main\bin\Debug\net7.0\CRM.Application.Main.dll
+C:\Users\user\Documents\C#\Projects\CRM\Application\CRM.Application.Main\bin\Debug\net7.0\CRM.Application.Main.pdb
+C:\Users\user\Documents\C#\Projects\CRM\Application\CRM.Application.Main\bin\Debug\net7.0\CRM.Application.DTO.dll
+C:\Users\user\Documents\C#\Projects\CRM\Application\CRM.Application.Main\bin\Debug\net7.0\CRM.Application.Interface.dll
+C:\Users\user\Documents\C#\Projects\CRM\Application\CRM.Application.Main\bin\Debug\net7.0\CRM.Domain.Entity.dll
+C:\Users\user\Documents\C#\Projects\CRM\Application\CRM.Application.Main\bin\Debug\net7.0\CRM.Domain.Interface.dll
+C:\Users\user\Documents\C#\Projects\CRM\Application\CRM.Application.Main\bin\Debug\net7.0\CRM.Transversal.Common.dll
+C:\Users\user\Documents\C#\Projects\CRM\Application\CRM.Application.Main\bin\Debug\net7.0\CRM.Application.Interface.pdb
+C:\Users\user\Documents\C#\Projects\CRM\Application\CRM.Application.Main\bin\Debug\net7.0\CRM.Application.DTO.pdb
+C:\Users\user\Documents\C#\Projects\CRM\Application\CRM.Application.Main\bin\Debug\net7.0\CRM.Domain.Interface.pdb
+C:\Users\user\Documents\C#\Projects\CRM\Application\CRM.Application.Main\bin\Debug\net7.0\CRM.Domain.Entity.pdb
+C:\Users\user\Documents\C#\Projects\CRM\Application\CRM.Application.Main\bin\Debug\net7.0\CRM.Transversal.Common.pdb
+C:\Users\user\Documents\C#\Projects\CRM\Application\CRM.Application.Main\obj\Debug\net7.0\CRM.Application.Main.csproj.AssemblyReference.cache
+C:\Users\user\Documents\C#\Projects\CRM\Application\CRM.Application.Main\obj\Debug\net7.0\CRM.Application.Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\C#\Projects\CRM\Application\CRM.Application.Main\obj\Debug\net7.0\CRM.Application.Main.AssemblyInfoInputs.cache
+C:\Users\user\Documents\C#\Projects\CRM\Application\CRM.Application.Main\obj\Debug\net7.0\CRM.Application.Main.AssemblyInfo.cs
+C:\Users\user\Documents\C#\Projects\CRM\Application\CRM.Application.Main\obj\Debug\net7.0\CRM.Application.Main.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\C#\Projects\CRM\Application\CRM.Application.Main\obj\Debug\net7.0\CRM.Application.Main.csproj.CopyComplete
+C:\Users\user\Documents\C#\Projects\CRM\Application\CRM.Application.Main\obj\Debug\net7.0\CRM.Application.Main.dll
+C:\Users\user\Documents\C#\Projects\CRM\Application\CRM.Application.Main\obj\Debug\net7.0\refint\CRM.Application.Main.dll
+C:\Users\user\Documents\C#\Projects\CRM\Application\CRM.Application.Main\obj\Debug\net7.0\CRM.Application.Main.pdb
+C:\Users\user\Documents\C#\Projects\CRM\Application\CRM.Application.Main\obj\Debug\net7.0\ref\CRM.Application.Main.dll

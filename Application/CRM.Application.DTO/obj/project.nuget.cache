@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xhctOWnIigI4UNHxplghcERnh/RXtLAzCLXzhhAP5eSllYF6Ou7+k7EqFQYGZO1qyRal/yIBW/gsiiN8RLd/YA==",
+  "dgSpecHash": "88OI9ydYUgwtitqDOL45HbGCKWLTrz0Uk7hp+gi0HPyZ8sZqkdd1FRVf2/x5Am0t1F0uQMaY80y6zqtjDTTRhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Documents\\curso de C#\\Projects\\CRM\\Application\\CRM.Application.DTO\\CRM.Application.DTO.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\C#\\Projects\\CRM\\Application\\CRM.Application.DTO\\CRM.Application.DTO.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -22,3 +22,15 @@ C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Com
 C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Common\obj\Debug\net7.0\refint\CRM.Transversal.Common.dll
 C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Common\obj\Debug\net7.0\CRM.Transversal.Common.pdb
 C:\Users\user\Documents\curso de C#\Projects\CRM\Transversal\CRM.Transversal.Common\obj\Debug\net7.0\ref\CRM.Transversal.Common.dll
+C:\Users\user\Documents\C#\Projects\CRM\Transversal\CRM.Transversal.Common\bin\Debug\net7.0\CRM.Transversal.Common.deps.json
+C:\Users\user\Documents\C#\Projects\CRM\Transversal\CRM.Transversal.Common\bin\Debug\net7.0\CRM.Transversal.Common.dll
+C:\Users\user\Documents\C#\Projects\CRM\Transversal\CRM.Transversal.Common\bin\Debug\net7.0\CRM.Transversal.Common.pdb
+C:\Users\user\Documents\C#\Projects\CRM\Transversal\CRM.Transversal.Common\obj\Debug\net7.0\CRM.Transversal.Common.csproj.AssemblyReference.cache
+C:\Users\user\Documents\C#\Projects\CRM\Transversal\CRM.Transversal.Common\obj\Debug\net7.0\CRM.Transversal.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\C#\Projects\CRM\Transversal\CRM.Transversal.Common\obj\Debug\net7.0\CRM.Transversal.Common.AssemblyInfoInputs.cache
+C:\Users\user\Documents\C#\Projects\CRM\Transversal\CRM.Transversal.Common\obj\Debug\net7.0\CRM.Transversal.Common.AssemblyInfo.cs
+C:\Users\user\Documents\C#\Projects\CRM\Transversal\CRM.Transversal.Common\obj\Debug\net7.0\CRM.Transversal.Common.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\C#\Projects\CRM\Transversal\CRM.Transversal.Common\obj\Debug\net7.0\CRM.Transversal.Common.dll
+C:\Users\user\Documents\C#\Projects\CRM\Transversal\CRM.Transversal.Common\obj\Debug\net7.0\refint\CRM.Transversal.Common.dll
+C:\Users\user\Documents\C#\Projects\CRM\Transversal\CRM.Transversal.Common\obj\Debug\net7.0\CRM.Transversal.Common.pdb
+C:\Users\user\Documents\C#\Projects\CRM\Transversal\CRM.Transversal.Common\obj\Debug\net7.0\ref\CRM.Transversal.Common.dll
